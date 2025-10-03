@@ -1,6 +1,11 @@
- Python 3.10+
-- Ultralytics YOLOv8
-- OpenNI2
-- PyTorch
-- OpenCV
-- Tkinter (for GUI)
+Python 3.10+
+opencv-python>=4.8.0
+numpy>=1.25.0
+matplotlib>=3.8.0
+torch>=2.1.0
+ultralytics>=8.0.0
+fer>=22.4.0
+deep-sort-realtime>=1.6.0
+openni>=2.2.0
+tk
+pillow>=10.0.0
