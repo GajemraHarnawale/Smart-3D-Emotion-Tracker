@@ -1,5 +1,3 @@
-Final_Mtech_project_second_year.py
-
 import cv2
 import numpy as np
 import torch
