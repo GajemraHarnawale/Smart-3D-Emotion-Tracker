@@ -1,0 +1,6 @@
+ Python 3.10+
+- Ultralytics YOLOv8
+- OpenNI2
+- PyTorch
+- OpenCV
+- Tkinter (for GUI)
